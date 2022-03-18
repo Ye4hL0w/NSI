@@ -124,23 +124,3 @@ def extraire2(unTexte):
     return t
 
 def occurence(tablo):
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
