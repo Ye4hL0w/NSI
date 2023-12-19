@@ -1,6 +1,6 @@
 # Bienvenue dans les Chapitres de Terminale NSI
 
-Ce répertoire contient tous les chapitres relatifs à la classe de Terminale NSI (Numérique et Sciences Informatiques).
+Ce répertoire contient les chapitres 1 à 9 de Terminale NSI (Numérique et Sciences Informatiques).
 
 ## Structure des Chapitres
 
@@ -15,13 +15,15 @@ Vous pouvez naviguer entre les différents chapitres en utilisant les liens four
 
 [Liste des chapitres ici avec des liens relatifs]
 
-## Contribution
 
-Si vous souhaitez contribuer à l'amélioration de ce matériel, n'hésitez pas à soumettre une `pull request` ou à ouvrir un `issue` pour discuter de vos propositions d'améliorations.
 
 ## Licence
 
-[Information sur la licence, si applicable]
+Voici le site web de mon professeur de 1er et Terminale NSI :
+
+https://www.duranton.net/index.py?niveau=accueil&chapitre=accueil&darkmode=oui&prio=oui
+
+Vous y trouverez tout les chapitre de 1er et Terminale (sans les corrections)
 
 ---
 
