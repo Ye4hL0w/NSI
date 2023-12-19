@@ -21,7 +21,7 @@ Vous pouvez naviguer entre les différents chapitres en utilisant les liens four
 
 Voici le site web de mon professeur de 1er et Terminale NSI :
 
-https://www.duranton.net/index.py?niveau=accueil&chapitre=accueil&darkmode=oui&prio=oui
+https://duranton.net/
 
 Vous y trouverez tout les chapitre de 1er et Terminale (sans les corrections)
 
